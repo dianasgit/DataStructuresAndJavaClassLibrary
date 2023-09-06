@@ -110,6 +110,7 @@ public class Arrays1{
 		}//outer for
 		System.out.println("First for-loop END");
 		
+		
 		System.out.println("Second for-loop START");
 		for(int row = 0; row < myArray02.length; row++){ // Stop condition !! 
 			int numerOfColumnsInThisRow = myArray02[row].length;
